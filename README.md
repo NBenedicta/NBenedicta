@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E9D5FF,50:C4B5FD,100:A78BFA&height=200&section=header&text=Benedicta%20Somtochukwu%20Nzekwe&fontSize=44&fontColor=2E1065&fontAlignY=38&desc=Computer%20Science%20%E2%80%A2%20Full-Stack%20Development%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20AI%20%E2%80%A2%20CE%2FEE%20Engineering&descSize=17&descColor=4C1D95&descAlignY=60&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E0B3A,50:4C1D95,100:2E1065&height=200&section=header&text=Benedicta%20Somtochukwu%20Nzekwe&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20%E2%80%A2%20Full-Stack%20Development%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20AI%20%E2%80%A2%20CE%2FEE%20Engineering&descSize=17&descColor=DDD6FE&descAlignY=60&animation=fadeIn"/>
 
 <br/>
 
@@ -327,6 +327,6 @@ Led product and design planning for a platform that helps students **build portf
 
 -**Morrie Schwartz**, *Tuesdays with Morrie* by Mitch Albom
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E9D5FF,50:C4B5FD,100:A78BFA&height=120&section=footer&text=Made%20with%20a%20Desire%20to%20Be%20Better%20and%20Love&fontSize=16&fontColor=2E1065&fontAlignY=65&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E0B3A,50:4C1D95,100:2E1065&height=120&section=footer&text=Made%20with%20a%20Desire%20to%20Be%20Better%20and%20Love&fontSize=16&fontColor=FFFFFF&fontAlignY=65&reversal=true" width="100%"/>
 
 </div>
