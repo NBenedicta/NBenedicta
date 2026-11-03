@@ -268,8 +268,8 @@ Led product and design planning for a platform that helps students **build portf
 |:---|:---|
 | **Thomas Mason Scholar** | Philander Smith University |
 | **4.0 / 4.0 GPA** | B.S. Computer Science, Philander Smith University |
-| **ColorStack Family Fund Scholar** | $1,200 scholarship, 2025 |
-| **Clarinet Scholarship** | $1,000 scholarship, 2025 |
+| **ColorStack Family Fund Scholar** | Scholarship recipient |
+| **Clarinet Scholarship** | Scholarship recipient |
 | **1,000 Dreams Fund Face of Tech Scholarship** | Scholarship recipient |
 | **LinkedIn Premium Scholarship** | Black Sisters in STEM |
 
@@ -291,15 +291,6 @@ Led product and design planning for a platform that helps students **build portf
 
 ---
 
-## `> Stats`
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/7c3aed/NBenedicta" alt="GitHub Contribution Chart" width="100%"/>
-
-</div>
-
----
 
 ## `> Currently Learning`
 
