@@ -295,7 +295,7 @@ Led product and design planning for a platform that helps students **build portf
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NBenedicta&theme=default&hide_border=false&color=7c3aed&line=a78bfa&point=6d28d9" alt="Activity Graph"/>
+<img src="https://ghchart.rshah.org/7c3aed/NBenedicta" alt="GitHub Contribution Chart" width="100%"/>
 
 </div>
 
