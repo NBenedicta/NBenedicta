@@ -122,25 +122,6 @@ Built a private platform where friends form **invite-only circles** to share goa
 </td>
 <td width="50%">
 
-### 🗺️ [RoadLens](https://github.com/NBenedicta/traffic-accident-heatmap)
-> *Traffic Accident Heatmap*
-
-Built an interactive geospatial safety dashboard that visualizes **100K+ Chicago crash records**.
-
-- Custom injury-based severity classification
-- Time-based filtering and street-level search
-- Optimized data sampling for smooth map rendering
-
-![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Folium](https://img.shields.io/badge/-Folium-77B829?style=flat-square&logo=leaflet&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
 ### 🌍 [Polyra](https://polyra.netlify.app)
 > *Language Translator Web App*
 
@@ -156,6 +137,8 @@ Shipped a translation app supporting **25 languages** through a secure serverles
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🪪 [Mipage](https://github.com/NBenedicta/mipage)
@@ -171,6 +154,23 @@ Built a full-stack app where users complete a guided profile and get a **shareab
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+
+</td>
+<td width="50%">
+
+### 🗺️ [RoadLens](https://github.com/NBenedicta/traffic-accident-heatmap)
+> *Traffic Accident Heatmap*
+
+Built an interactive geospatial safety dashboard that visualizes **100K+ Chicago crash records**.
+
+- Custom injury-based severity classification
+- Time-based filtering and street-level search
+- Optimized data sampling for smooth map rendering
+
+![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Folium](https://img.shields.io/badge/-Folium-77B829?style=flat-square&logo=leaflet&logoColor=white)
 
 </td>
 </tr>
